@@ -4,7 +4,7 @@ A modern and responsive portfolio template built with Next.js, Tailwind CSS, and
 
 ## Demo
 
-[Live Demo]([https://pariya-portfolio.vercel.app/])
+[[Live Demo]([https://pariya-portfolio.vercel.app/])](https://pariya-portfolio.vercel.app/)
 
 ## Preview
 
