@@ -121,7 +121,7 @@ const Projects = () => {
     {
       title: "PET FEEDER",
       description:
-        "UX and UI design for the RecoveryTour website, emphasizing an engaging brand identity and easy navigation for visitors.",
+        "Developed a smart pet feeder controlled via smartphone using Blynk and NodeMCU ESP8266 for convenient and timely feeding.",
       image: "/PET_FEEDER.webp",
       technologies: ["C++","Blynk"],
       liveUrl: null,
@@ -201,3 +201,4 @@ const filteredProjects =
 };
 
 export default Projects;
+
