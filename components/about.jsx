@@ -63,7 +63,7 @@ const About = () => {
               </Button>
 
               <Button variant="outline" className="rounded-full" asChild>
-                <a href="/Pariya_Singchalad_Resume_EN.pdf" download>
+                <a href="/Pariya_Singchalad_Resume_ENG.pdf" download>
                   <Download className="mr-2" />
                   Download Resume
                 </a>
@@ -78,4 +78,5 @@ const About = () => {
 };
 
 export default About;
+
 
