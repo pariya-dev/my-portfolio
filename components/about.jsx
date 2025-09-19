@@ -20,7 +20,7 @@ const About = () => {
             transition={{ duration: 0.8, ease: "easeOut" }}
           >
             <Image
-              src="/pry.jpg"
+              src="/cropped_circle_image.png"
               alt="Profile"
               fill
               className="object-cover"
@@ -63,7 +63,7 @@ const About = () => {
               </Button>
 
               <Button variant="outline" className="rounded-full" asChild>
-                <a href="/Pariya_Singchalad_Resume_TH.pdf" download>
+                <a href="/Pariya_Singchalad_Resume_EN.pdf" download>
                   <Download className="mr-2" />
                   Download Resume
                 </a>
@@ -78,3 +78,4 @@ const About = () => {
 };
 
 export default About;
+
