@@ -26,7 +26,7 @@ const Hero = () => {
         transition={{ duration: 0.8, ease: "easeOut" }}
       >
         <Badge className="rounded-full border-none">
-          IT Support | Web Developer
+          IT Support
         </Badge>
         <motion.h1
           className="mt-6 text-4xl sm:text-5xl md:text-6xl font-bold !leading-[1.2] tracking-tight"
@@ -59,3 +59,4 @@ const Hero = () => {
 };
 
 export default Hero;
+
